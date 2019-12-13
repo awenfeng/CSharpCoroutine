@@ -1,0 +1,6 @@
+D:\github\CSharpCoroutine\CSharpCoroutine\bin\Debug\CSharpCoroutine.dll
+D:\github\CSharpCoroutine\CSharpCoroutine\bin\Debug\CSharpCoroutine.pdb
+D:\github\CSharpCoroutine\CSharpCoroutine\obj\Debug\CSharpCoroutine.csprojAssemblyReference.cache
+D:\github\CSharpCoroutine\CSharpCoroutine\obj\Debug\CSharpCoroutine.csproj.CoreCompileInputs.cache
+D:\github\CSharpCoroutine\CSharpCoroutine\obj\Debug\CSharpCoroutine.dll
+D:\github\CSharpCoroutine\CSharpCoroutine\obj\Debug\CSharpCoroutine.pdb
